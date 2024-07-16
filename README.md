@@ -61,6 +61,6 @@ Aprende todos los fundamentos probabilidad para entender las matemáticas detrá
 
 ## Extras
 
-- Exploración visual de datos - [Extra01.ipynb](codes/Extra01.ipynb), [Extra01.pdf](codes/pdfs/Extra01.pdf).
+- Ejercicios - [Extra01.ipynb](codes/reto.ipynb), [Extra01.pdf](codes/pdfs/reto.pdf).
   
   <br />
