@@ -56,11 +56,7 @@ Aprende todos los fundamentos probabilidad para entender las matemáticas detrá
 
 - Teorema de Bayes [Reto] - [code015.ipynb](codes/code015.ipynb), [code015.pdf](codes/pdfs/code015.pdf).
 - Bayes en Machine Learning  - [code016.ipynb](codes/code016.ipynb), [code016.pdf](codes/pdfs/code016.pdf).
-- Retos finales [Reto] - [code017.ipynb](codes/code017.ipynb), [code017.pdf](codes/pdfs/code017.pdf).
-- Examen final - [Examen.pdf](codes/pdfs/Examen.pdf)
+- Retos finales [Reto] - [Extra01.ipynb](codes/reto.ipynb).
+- Examen final - [Examen.pdf](codes/pdfs/examen.pdf)
 
-## Extras
-
-- Ejercicios - [Extra01.ipynb](codes/reto.ipynb), [Extra01.pdf](codes/pdfs/reto.pdf).
-  
-  <br />
+<br />
