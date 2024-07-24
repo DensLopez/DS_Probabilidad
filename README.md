@@ -48,15 +48,18 @@ Aprende todos los fundamentos probabilidad para entender las matemáticas detrá
 ### MLE (Maximum Likelihood Estimation)
 
 - ¿Qué es MLE? - [code011.ipynb](codes/code011.ipynb), [code011.pdf](codes/pdfs/code011.pdf).
-- MLE en Machine Learning [Reto] - [code012.ipynb](codes/code012.ipynb), [code012.pdf](codes/pdfs/code012.pdf).
+- MLE en Machine Learning - [code012.ipynb](codes/code012.ipynb), [code012.pdf](codes/pdfs/code012.pdf).
 - Regresión logística - [code013.ipynb](codes/code013.ipynb), [code013.pdf](codes/pdfs/code013.pdf).
 - Aplicación de regresión logística - [code014.ipynb](codes/code014.ipynb), [code014.pdf](codes/pdfs/code014.pdf).
 
 ### Inferencia Bayesiana
 
-- Teorema de Bayes [Reto] - [code015.ipynb](codes/code015.ipynb), [code015.pdf](codes/pdfs/code015.pdf).
+- Teorema de Bayes - [code015.ipynb](codes/code015.ipynb), [code015.pdf](codes/pdfs/code015.pdf).
 - Bayes en Machine Learning  - [code016.ipynb](codes/code016.ipynb), [code016.pdf](codes/pdfs/code016.pdf).
-- Retos finales [Reto] - [Extra01.ipynb](codes/reto.ipynb).
+
+### Evaluación
+
+- Retos finales - [Extra01.ipynb](codes/reto.ipynb).
 - Examen final - [Examen.pdf](codes/pdfs/examen.pdf)
 
 <br />
